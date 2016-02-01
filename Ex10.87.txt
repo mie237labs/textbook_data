@@ -1,3 +1,4 @@
 	Male 	Female
-Over25    15 	29
-Under25  27 	19
+Over25	15	29
+Under25	27	19
+
